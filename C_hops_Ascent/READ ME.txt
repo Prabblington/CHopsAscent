@@ -1,0 +1,23 @@
+Hello there!
+
+1. To open the file first open the C_hops_Ascent file
+2. If told you require a folder named "C_hops_Ascent file", please move all to that folder then open as 
+instructed at point 1 
+3. Have fun messing around with it :)
+
+
+
+References:
+
+Aetherna(2016), 2D Platform Dungeon Accessories Pack, "cage1", OpenGameArt.Org, https://opengameart.org/users/aetherna
+AntumDeluge(2019), Game Over, "gameOver", OpenGameart.Org, https://opengameart.org/users/antumdeluge
+Bonsaiheldin(2016), gold treasure icons, "coin1", "coin2", "goldBar", OpenGameart.Org, http://bonsaiheld.org
+Buch(2014), Pixel Dungeon Art - 2D, "dungeon_tiles", OpenGameArt.Org, https://opengameart.org/users/buch
+HughSpectrum(2013), Castle Lights Repack, "torch", OpenGameArt.Org, https://opengameart.org/users/williamthompsonj
+Q_x(2014), Castle Gate, "gate", OpenGameart.Org, https://opengameart.org/users/qx
+Sogomn(2017), Explosion, "explosion", OpenGameart.Org, https://opengameart.org/users/sogomn
+Spring(2019), dragon maniac, "chops", OpenGameart.Org, https://opengameart.org/users/spring
+Stephen Challener and RedShrike(2012), Dark Soldier for Valria Tear, "stalkers", OpenGameArt.Org, https://opengameart.org/users/redshrike
+TheJosh and Kenney(2017), Explosion Particles Sprite Atlas, "explosion_atlas", OpenGameart.Org, https://opengameart.org/users/thejosh
+
+- Single instances of a collection of images are all by the same artist, just copied/cut and/or resized
